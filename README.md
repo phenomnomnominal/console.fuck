@@ -1,4 +1,4 @@
-# console.fuck v1.0.1
+# console.fuck v1.0.2
 
 A helpful utility to log "fuck" to the console.
 

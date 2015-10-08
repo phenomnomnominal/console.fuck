@@ -1,6 +1,6 @@
 {
   "name": "console.fuck",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "logs \"fuck\" to the console",
   "main": "dist/console.fuck.js",
   "scripts": {
@@ -8,6 +8,14 @@
     "test": "babel-node ./node_modules/isparta/bin/isparta cover _mocha -- src/**/*.spec.js"
   },
   "author": "Craig Spence <craigspence0@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phenomnomnominal/console.fuck.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phenomnomnominal/console.fuck/issues",
+    "email": "craigspence0@gmail.com"
+  },
   "license": "MIT",
   "devDependencies": {
     "babel": "5.8.23",
